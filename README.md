@@ -74,7 +74,7 @@ blogpost-api/
 ├── app.py               # Streamlit frontend
 ├── models.py            # Pydantic schemas
 ├── data/
-│   └── posts.json       # Data file (if using JSON)
+│   └── posts.json       # Data file
 ├── requirements.txt     # Python dependencies
 └── README.md
 ```
