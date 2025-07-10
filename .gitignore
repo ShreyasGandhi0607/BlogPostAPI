@@ -1,0 +1,32 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# VSCode
+.vscode/
+
+# System
+.DS_Store
+
+# Python env
+*.egg-info/
+
+# SQLite DB (optional if using it)
+*.db
+
+# Secrets
+.env
+*.env
+
+# Pydantic compiled cache (if any)
+__pydantic__/ 
+
+# python versions
+.python-version
